@@ -1,13 +1,14 @@
 # GoogleMap
 Some quick and neat functions to access and use Google Map web API's like - 
 
-Get-Direction <br />
+<b>Get-Direction <br />
 Get-Distance <br />
 Get-GeoCoding <br />
 Get-GeoLocation <br />
 Get-NearbyPlace <br />
 Get-ReverseGeoCoding <br />
 Get-TimeZone <br />
+</b>
 
 Directly Install-Module from the PowerShell Gallery if you've the PowershellGet module.
 
